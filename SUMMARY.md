@@ -7,6 +7,7 @@
 * [錢包](wallet.md)
 * [智能合約](smartcontract/README.md)
   * [部署合約](smartcontract/deploy-contracts.md)
+  * [創世合約](smartcontract/genesis-contracts.md)
 * [節點部署](nodes/README.md)
   * [驗證者節點部署](nodes/build-validator-node.md)
   * [Fullnode節點部署](nodes/build-fullnode.md)
